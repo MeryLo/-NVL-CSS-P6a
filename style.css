@@ -51,6 +51,8 @@
 .table tr th {
     padding: 10px;
     border: 1px solid #eabf3a;
+    font-size: 19px;
+    font-weight: bold;
 }
 
 
